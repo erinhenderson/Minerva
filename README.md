@@ -1,6 +1,7 @@
 # Minerva
 
 Project: Minerva: Music Sentiment Analysis
+
 Group Members: Michael Hainsworth, Erin Henderson, Ben Nunley
 Client: Dr. Gilliean Lee
 Faculty Supervisors: Dr. Gilliean Lee and Dr. Farha Ali
